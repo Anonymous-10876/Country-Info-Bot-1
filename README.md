@@ -2,7 +2,12 @@
 A simple country information bot
 
 
-Find Me On telegrm (https://telegra.ph/file/93658962e6eb711315c30.jpg)
+# Available on telegram as @YeageristCountryInfo_Bot
+
+<p align="center">
+  <img src="https://telegra.ph/file/93658962e6eb711315c30.jpg">
+</p>
+
 
 ```
 Please fork this repository don't import code
